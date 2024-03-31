@@ -1,0 +1,44 @@
+.outfit {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400, 600, 700;
+  font-style: normal;
+}
+
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root{
+  --cor1: hsl(14, 45%, 36%);
+  --cor_font: hsl(332, 51%, 32%);
+  --cor2: hsl(0, 0%, 100%);
+  --cor3: hsl(330, 100%, 98%);
+  --cor4: hsl(30, 54%, 90%);
+  --cor5: hsl(30, 18%, 87%);
+  --cor6: hsl(30, 10%, 34%);
+  --cor7: hsl(24, 5%, 18%);
+}
+
+body{
+  background-color: var(--cor4);
+}
+
+main {
+  background-color: white;
+  border-radius: 10px;
+  width: 650px;
+  height: auto;
+  margin: auto;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }  
