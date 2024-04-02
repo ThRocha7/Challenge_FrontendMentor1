@@ -1,14 +1,13 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Essa é a resolução do [Recipe page chaallenge on Frontend Mentor]((https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)). Esse desafio me trouxe vários aprendizados que quero destacar nesse Readme.
 
-## Table of contents
+## Índice:
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão geral](#visaogeral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [Meu processo](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -18,44 +17,31 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Visão Geral
+
+A ideia do desafio é bem simples e um tanto quanto complexo também: seguir o design da página apenas visualizando as fotos que eles disponibilizam no site. Eles entregam o texto, os assets, a paleta de cores e as fontes. Agora, como será estruturado o HTML, como será estilizado, as ferramentas que serão utilizadas no projeto, como os elementos serão distribuidos no layout, são todas escolhas da pessoa que está fazendo o desafio. 
+
+Foi minha primeira experiencia com um desafio do tipo e, confesso que gostei bastante. Segue um print do projeto finalizado:
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+### Link
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
+Segue aqui, o link do projeto finalizado:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## Meu processo
 
-### Built with
+Comecei estruturando o HTML do site, separando o texto, até então jogado no <body>, em suas respectivas divs, spans, listas, tabelas e afins. Depois de um boa batalha tentando colocar as fontes, criei variaveis para as cores principais. Parei o projeto para ver algumas aulas do mestre Gustavo Guanabara sobre Git e Github, para commitar o código certinho. Estilizei todos os componentes, sempre comparando com o design proposto e cheguei nesse resultado. Acredito que tenha ficado bem fiel ao original e estou orgulhoso com o resultado! 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+Eu usei somente o HTML e o CSS para esse desafio, além de ainda não saber usar outras ferramentas como o tailwind, Sass e entre outros, é um projeto muito simples que não há a necessidade de usá-los.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que eu aprendi
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+Além de praticar os conceitos básicos de HTML e CSS, aprendi coisas novas de como estilizar listas e tabelas, conceitos novos de flexbox e o mais importante (acho eu) a reposividade por meio da tag @midia.
 To see how you can add code snippets, see below:
 
 ```html
