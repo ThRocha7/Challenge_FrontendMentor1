@@ -2,7 +2,7 @@
 
 Olá, pessoa anônima da internet! 
 
-Espero que esteja bem! Essa é a minha resolução do [Recipe page chaallenge on Frontend Mentor]((https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)). Esse desafio me trouxe vários aprendizados que quero destacar aqui.
+Espero que esteja bem! Essa é a minha resolução do [Recipe page chaallenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Esse desafio me trouxe vários aprendizados que quero destacar aqui.
 
 ## Índice:
 
