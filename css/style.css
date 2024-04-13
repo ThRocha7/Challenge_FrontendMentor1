@@ -29,7 +29,7 @@ body{
   justify-content: center;
   flex-direction: column;
   gap: 20px;
-  padding-top: 2rem;
+  padding: 2rem 0rem 2rem 0rem;
 }
 
 main {
@@ -38,16 +38,14 @@ main {
   max-width: 700px;
   padding: 25px;
   font-family: "Outfit";
-  font: 0.8rem;
   font-style: normal;
   text-align: justify;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  margin-bottom: 1.5rem;
 }
 
-main img {
+main img{
   width: 100%;
   border-radius: 20px;
 }
@@ -168,26 +166,33 @@ table tr:last-child td{
 
 
 footer {
-  background-color: var(--cor_font);
-  width: 100%;
-  height: 20px;
-  color: #FFF;
-  font: 10px;
+  color: var(--cor6);
+  font-size: 12px;
   font-family: 'Outfit';
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-top: 15px;  
 }
 .attribution {
     text-align: center;
 }
 
 .attribution a {
-  color: #FFF;
+  color: var(--cor1);
 }
 
-@media (max-width: 650px) {
+@media screen and (max-width: 650px) {
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    gap: 0;
+  }
+
   main {
-    ;
+    text-align: left;
+    border-radius: 0;
   }
 }

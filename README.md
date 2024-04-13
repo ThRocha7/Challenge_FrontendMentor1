@@ -1,89 +1,54 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe page solution
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+Olá, pessoa anônima da internet! 
 
-## Welcome! 👋
+Espero que esteja bem! Essa é a minha resolução do [Recipe page chaallenge on Frontend Mentor]((https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)). Esse desafio me trouxe vários aprendizados que quero destacar aqui.
 
-Thanks for checking out this front-end coding challenge.
+## Índice:
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+- [Visão geral](#visaogeral)
+  - [Prints](#prints)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [O que aprendi](#o-que-aprendi)
+- [Autor](#autor)
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Visão Geral
 
-## The challenge
+A ideia do desafio é bem simples, e um tanto quanto complexo também: seguir o design da página, apenas visualizando as fotos que eles disponibilizam no site. Eles entregam o texto, os assets, a paleta de cores e as fontes. Agora, como será estruturado o HTML, como será estilizado, as ferramentas que serão utilizadas no projeto, como os elementos serão distribuídos no layout, são todas escolhas da pessoa que está fazendo o desafio. 
 
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
+Foi minha primeira experiência com um desafio do tipo e, confesso que gostei bastante. Segue um print do projeto finalizado:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+### Prints
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+![](./screenshot.jpg)
 
-## Where to find everything
+### Link
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Segue aqui, o link do projeto finalizado hospedado pelo gitpages:
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+## Meu processo
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+Comecei estruturando o HTML do site, separando o texto, que até então, estava jogado no <body>, em suas respectivas divs, spans, listas, tabelas e afins. Depois de uma boa batalha tentando colocar as fontes (deu tudo certo 🫠), criei variáveis para as cores principais. Parei o projeto para ver algumas aulas do mestre Gustavo Guanabara sobre Git e Github, para commitar o código certinho. Estilizei todos os componentes, sempre comparando com o design proposto e cheguei nesse resultado. Acredito que tenha ficado bem fiel ao original e estou orgulhoso com o resultado! 
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Eu usei somente o HTML e o CSS para esse desafio, além de ainda não saber usar outras ferramentas e por ser um projeto muito simples, que não haveria a necessidade de usá-las.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### O que eu aprendi
 
-## Building your project
+Além de praticar os conceitos básicos de HTML e CSS, aprendi coisas novas, como por exemplo:
+- Estilizar tabelas e listas;
+- Aprofundei os conceitos de Flexbox;
+- Midia Query;
+- Aprofundei meu conhecimento sobre Git e Github;
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## Autor
+E foi isso! Gostei muito da experiência e farei outros. Muito obrigado por ler até aqui!
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+Segue minhas redes sociais abaixo:
 
-## Deploying your project
+- Instagram - [thiago_rochax7](https://www.instagram.com/thiago_rochax7/)
+- Linkedin - [Thiago Rocha](https://www.linkedin.com/in/thiago-rocha-8a1b0528b/)
+- Frontend Mentor - [@ThRocha7](https://www.frontendmentor.io/profile/ThRocha7)
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
