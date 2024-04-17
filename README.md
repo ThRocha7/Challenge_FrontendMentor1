@@ -21,7 +21,8 @@ Foi minha primeira experiência com um desafio do tipo e, confesso que gostei ba
 
 ### Prints
 
-  ![Modelo mobile](./assets/images/mobile-print.png)
+  ![](./assets/images/mobile-print.png)
+  Versão mobile
 
 ### Link
 
