@@ -34,7 +34,7 @@ Segue aqui o link do projeto finalizado, hospedado pelo gitpages:
 
 ## Meu processo
 
-Comecei estruturando o HTML do site, separando o texto, que até então, estava jogado no <body>, em suas respectivas divs, spans, listas, tabelas e afins. Depois de uma boa batalha tentando colocar as fontes (deu tudo certo 🫠), criei variáveis para as cores principais. Parei o projeto para ver algumas aulas do mestre Gustavo Guanabara sobre Git e Github, para commitar o código certinho. Estilizei todos os componentes, sempre comparando com o design proposto e cheguei nesse resultado. Acredito que tenha ficado bem fiel ao original e estou orgulhoso com o resultado! 
+Comecei estruturando o HTML do site, separando o texto, que até então, estava jogado no Body, em suas respectivas divs, spans, listas, tabelas e afins. Depois de uma boa batalha tentando colocar as fontes (deu tudo certo 🫠), criei variáveis para as cores principais. Parei o projeto para ver algumas aulas do mestre Gustavo Guanabara sobre Git e Github, para commitar o código certinho. Estilizei todos os componentes, sempre comparando com o design proposto e cheguei nesse resultado. Acredito que tenha ficado bem fiel ao original e estou orgulhoso com o resultado! 
 
 Eu usei somente o HTML e o CSS para esse desafio, além de ainda não saber usar outras ferramentas e por ser um projeto muito simples, que não haveria a necessidade de usá-las.
 
