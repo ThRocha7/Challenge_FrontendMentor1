@@ -2,11 +2,12 @@
 
 Olá, pessoa anônima da internet! 
 
-Espero que esteja bem! Essa é a minha resolução do [Recipe page chaallenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Esse desafio me trouxe vários aprendizados que quero destacar aqui.
+Espero que se encontre bem! Essa é a minha resolução do [Recipe page chaallenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Esse desafio me trouxe vários aprendizados que quero destacar aqui.
 
 ## Índice:
 
 - [Visão geral](#visaogeral)
+  - [O Desafio](#odesafio)
   - [Prints](#prints)
   - [Links](#links)
 - [Meu processo](#meu-processo)
@@ -14,6 +15,8 @@ Espero que esteja bem! Essa é a minha resolução do [Recipe page chaallenge on
 - [Autor](#autor)
 
 ## Visão Geral
+
+### O desafio
 
 A ideia do desafio é bem simples, e um tanto quanto complexo também: seguir o design da página, apenas visualizando as fotos que eles disponibilizam no site. Eles entregam o texto, os assets, a paleta de cores e as fontes. Agora, como será estruturado o HTML, como será estilizado, as ferramentas que serão utilizadas no projeto, como os elementos serão distribuídos no layout, são todas escolhas da pessoa que está fazendo o desafio. 
 
