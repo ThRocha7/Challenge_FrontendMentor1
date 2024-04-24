@@ -28,7 +28,7 @@ Foi minha primeira experiência com um desafio do tipo e, confesso que gostei ba
 
 ### Link
 
-Segue aqui, o link do projeto finalizado hospedado pelo gitpages:
+Segue aqui o link do projeto finalizado, hospedado pelo gitpages:
 
 - [URL do projeto](https://throcha7.github.io/Challenge_FrontendMentor1/)
 
