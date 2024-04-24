@@ -47,6 +47,7 @@ Além de praticar os conceitos básicos de HTML e CSS, aprendi coisas novas, com
 - Aprofundei meu conhecimento sobre Git e Github;
 
 ## Autor
+
 E foi isso! Gostei muito da experiência e farei outros. Muito obrigado por ler até aqui!
 
 Segue minhas redes sociais abaixo:
